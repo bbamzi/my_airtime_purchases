@@ -1,0 +1,232 @@
+Trans Date,Debit,Recharge Type,Channel,recipient
+04-Jan-21,200.0,Call Recharge,GTWORLD,Friends
+06-Jan-21,5000.0,Monthly Sub,USSD,My Number
+07-Jan-21,100.0,Call Recharge,USSD,My Number
+10-Jan-21,5000.0,Monthly Sub,USSD,My Number
+11-Jan-21,100.0,Call Recharge,USSD,My Number
+11-Jan-21,100.0,Call Recharge,USSD,Friends
+15-Jan-21,100.0,Call Recharge,USSD,My Number
+16-Jan-21,100.0,Call Recharge,USSD,My Number
+17-Jan-21,200.0,Call Recharge,GTWORLD,Friends
+18-Jan-21,5000.0,Monthly Sub,USSD,My Number
+18-Jan-21,200.0,Call Recharge,USSD,Friends
+19-Jan-21,100.0,Call Recharge,USSD,My Number
+22-Jan-21,1000.0,Call Recharge,USSD,Friends
+22-Jan-21,100.0,Call Recharge,USSD,My Number
+22-Jan-21,1500.0,Weekly Sub,GTWORLD,Friends
+22-Jan-21,100.0,Call Recharge,USSD,My Number
+26-Jan-21,100.0,Call Recharge,USSD,My Number
+27-Jan-21,300.0,Call Recharge,USSD,My Number
+27-Jan-21,300.0,Call Recharge,USSD,My Number
+27-Jan-21,5000.0,Monthly Sub,USSD,My Number
+28-Jan-21,1000.0,Call Recharge,USSD,Friends
+05-Feb-21,1500.0,Weekly Sub,USSD,My Number
+08-Feb-21,1500.0,Weekly Sub,USSD,My Number
+08-Feb-21,1500.0,Weekly Sub,GTWORLD,Friends
+09-Feb-21,100.0,Call Recharge,USSD,My Number
+09-Feb-21,100.0,Call Recharge,USSD,My Number
+10-Feb-21,1500.0,Weekly Sub,USSD,My Number
+11-Feb-21,300.0,Call Recharge,USSD,My Number
+11-Feb-21,1500.0,Weekly Sub,USSD,My Number
+13-Feb-21,1500.0,Weekly Sub,USSD,My Number
+14-Feb-21,200.0,Call Recharge,USSD,Friends
+15-Feb-21,1500.0,Weekly Sub,USSD,My Number
+17-Feb-21,100.0,Call Recharge,USSD,My Number
+17-Feb-21,100.0,Call Recharge,USSD,My Number
+17-Feb-21,300.0,Call Recharge,USSD,My Number
+17-Feb-21,1000.0,Call Recharge,USSD,My Number
+17-Feb-21,800.0,Call Recharge,USSD,My Number
+18-Feb-21,500.0,Call Recharge,USSD,My Number
+19-Feb-21,500.0,Call Recharge,USSD,My Number
+20-Feb-21,300.0,Call Recharge,USSD,My Number
+21-Feb-21,100.0,Call Recharge,USSD,My Number
+23-Feb-21,300.0,Call Recharge,USSD,My Number
+24-Feb-21,1500.0,Weekly Sub,USSD,My Number
+24-Feb-21,500.0,Call Recharge,USSD,My Number
+24-Feb-21,1000.0,Call Recharge,USSD,My Number
+26-Feb-21,1500.0,Weekly Sub,USSD,My Number
+28-Feb-21,1500.0,Weekly Sub,USSD,My Number
+01-Mar-21,1500.0,Weekly Sub,USSD,My Number
+03-Mar-21,1500.0,Weekly Sub,USSD,My Number
+03-Mar-21,100.0,Call Recharge,USSD,My Number
+04-Mar-21,100.0,Call Recharge,USSD,My Number
+04-Mar-21,100.0,Call Recharge,USSD,My Number
+04-Mar-21,1200.0,Call Recharge,GTWORLD,Friends
+05-Mar-21,100.0,Call Recharge,USSD,My Number
+05-Mar-21,1500.0,Weekly Sub,USSD,My Number
+07-Mar-21,100.0,Call Recharge,USSD,My Number
+07-Mar-21,200.0,Call Recharge,GTWORLD,Friends
+07-Mar-21,200.0,Call Recharge,GTWORLD,Friends
+07-Mar-21,200.0,Call Recharge,USSD,Friends
+08-Mar-21,2000.0,Monthly Sub,GTWORLD,Friends
+10-Mar-21,100.0,Call Recharge,USSD,My Number
+10-Mar-21,200.0,Call Recharge,USSD,My Number
+10-Mar-21,100.0,Call Recharge,USSD,My Number
+10-Mar-21,2000.0,Monthly Sub,USSD,My Number
+10-Mar-21,1200.0,Call Recharge,USSD,My Number
+10-Mar-21,100.0,Call Recharge,USSD,My Number
+12-Mar-21,300.0,Call Recharge,USSD,My Number
+12-Mar-21,200.0,Call Recharge,USSD,My Number
+12-Mar-21,100.0,Call Recharge,USSD,My Number
+13-Mar-21,100.0,Call Recharge,USSD,My Number
+13-Mar-21,1500.0,Weekly Sub,USSD,My Number
+14-Mar-21,100.0,Call Recharge,USSD,My Number
+15-Mar-21,100.0,Call Recharge,USSD,My Number
+15-Mar-21,300.0,Call Recharge,USSD,My Number
+15-Mar-21,300.0,Call Recharge,USSD,My Number
+15-Mar-21,200.0,Call Recharge,USSD,My Number
+16-Mar-21,100.0,Call Recharge,USSD,My Number
+16-Mar-21,100.0,Call Recharge,USSD,My Number
+18-Mar-21,1500.0,Weekly Sub,USSD,My Number
+18-Mar-21,1499.03,Call Recharge,USSD,My Number
+18-Mar-21,100.0,Call Recharge,USSD,My Number
+19-Mar-21,100.0,Call Recharge,USSD,Friends
+21-Mar-21,300.0,Call Recharge,USSD,My Number
+21-Mar-21,100.0,Call Recharge,USSD,My Number
+21-Mar-21,1500.0,Weekly Sub,USSD,My Number
+22-Mar-21,300.0,Call Recharge,USSD,My Number
+22-Mar-21,500.0,Call Recharge,USSD,My Number
+23-Mar-21,500.0,Call Recharge,USSD,My Number
+24-Mar-21,100.0,Call Recharge,USSD,My Number
+24-Mar-21,300.0,Call Recharge,USSD,My Number
+25-Mar-21,100.0,Call Recharge,USSD,My Number
+25-Mar-21,500.0,Call Recharge,USSD,My Number
+26-Mar-21,300.0,Call Recharge,USSD,My Number
+26-Mar-21,500.0,Call Recharge,USSD,My Number
+27-Mar-21,100.0,Call Recharge,USSD,My Number
+27-Mar-21,100.0,Call Recharge,USSD,My Number
+27-Mar-21,100.0,Call Recharge,GTWORLD,Friends
+27-Mar-21,701.0,Call Recharge,GTWORLD,Friends
+27-Mar-21,500.0,Call Recharge,USSD,My Number
+28-Mar-21,300.0,Call Recharge,USSD,My Number
+28-Mar-21,100.0,Call Recharge,USSD,My Number
+29-Mar-21,100.0,Call Recharge,USSD,My Number
+30-Mar-21,300.0,Call Recharge,USSD,My Number
+30-Mar-21,1500.0,Weekly Sub,GTWORLD,Friends
+31-Mar-21,300.0,Call Recharge,USSD,My Number
+31-Mar-21,301.0,Call Recharge,USSD,My Number
+02-Apr-21,150.0,Call Recharge,USSD,My Number
+02-Apr-21,100.0,Call Recharge,USSD,My Number
+02-Apr-21,1500.0,Weekly Sub,USSD,My Number
+02-Apr-21,100.0,Call Recharge,USSD,My Number
+03-Apr-21,100.0,Call Recharge,USSD,My Number
+04-Apr-21,100.0,Call Recharge,USSD,My Number
+10-Apr-21,1600.0,Monthly Sub,USSD,My Number
+11-Apr-21,100.0,Call Recharge,USSD,My Number
+12-Apr-21,100.0,Call Recharge,USSD,My Number
+13-Apr-21,100.0,Call Recharge,USSD,My Number
+13-Apr-21,1000.0,Call Recharge,USSD,My Number
+15-Apr-21,1500.0,Weekly Sub,USSD,My Number
+17-Apr-21,100.0,Call Recharge,USSD,My Number
+18-Apr-21,500.0,Call Recharge,USSD,My Number
+19-Apr-21,500.0,Call Recharge,USSD,My Number
+19-Apr-21,100.0,Call Recharge,USSD,My Number
+22-Apr-21,100.0,Call Recharge,USSD,My Number
+23-Apr-21,100.0,Call Recharge,USSD,My Number
+23-Apr-21,300.0,Call Recharge,USSD,My Number
+27-Apr-21,100.0,Call Recharge,USSD,My Number
+27-Apr-21,2200.0,Monthly Sub,USSD,My Number
+29-Apr-21,1100.0,Call Recharge,USSD,My Number
+29-Apr-21,200.0,Call Recharge,GTWORLD,My Number
+03-May-21,200.0,Call Recharge,USSD,Friends
+03-May-21,1500.0,Weekly Sub,USSD,My Number
+04-May-21,100.0,Call Recharge,USSD,My Number
+04-May-21,1500.0,Weekly Sub,GTWORLD,Friends
+05-May-21,200.0,Call Recharge,GTWORLD,My Number
+06-May-21,1500.0,Weekly Sub,USSD,My Number
+07-May-21,100.0,Call Recharge,USSD,My Number
+08-May-21,1500.0,Weekly Sub,USSD,My Number
+11-May-21,1500.0,Weekly Sub,USSD,My Number
+12-May-21,100.0,Call Recharge,USSD,My Number
+15-May-21,100.0,Call Recharge,USSD,My Number
+15-May-21,1500.0,Weekly Sub,USSD,My Number
+17-May-21,1500.0,Weekly Sub,USSD,My Number
+18-May-21,200.0,Call Recharge,USSD,My Number
+20-May-21,100.0,Call Recharge,USSD,My Number
+21-May-21,1000.0,Call Recharge,USSD,My Number
+23-May-21,1500.0,Weekly Sub,USSD,My Number
+24-May-21,100.0,Call Recharge,GTWORLD,Friends
+24-May-21,100.0,Call Recharge,USSD,My Number
+26-May-21,1500.0,Weekly Sub,USSD,My Number
+27-May-21,500.0,Call Recharge,USSD,My Number
+27-May-21,500.0,Call Recharge,USSD,My Number
+28-May-21,100.0,Call Recharge,USSD,My Number
+30-May-21,100.0,Call Recharge,USSD,My Number
+08-Jun-21,1499.03,Call Recharge,USSD,My Number
+09-Jun-21,1500.0,Weekly Sub,USSD,My Number
+10-Jun-21,1500.0,Weekly Sub,GTWORLD,Friends
+10-Jun-21,200.0,Call Recharge,USSD,My Number
+10-Jun-21,1500.0,Weekly Sub,GTWORLD,Friends
+10-Jun-21,1499.03,Call Recharge,GTWORLD,My Number
+10-Jun-21,500.0,Call Recharge,USSD,My Number
+10-Jun-21,500.0,Call Recharge,USSD,My Number
+10-Jun-21,1500.0,Weekly Sub,USSD,My Number
+11-Jun-21,1500.0,Weekly Sub,USSD,My Number
+13-Jun-21,1500.0,Weekly Sub,USSD,My Number
+14-Jun-21,1500.0,Weekly Sub,USSD,My Number
+15-Jun-21,100.0,Call Recharge,USSD,My Number
+15-Jun-21,1500.0,Weekly Sub,USSD,My Number
+15-Jun-21,1500.0,Weekly Sub,USSD,My Number
+16-Jun-21,100.0,Call Recharge,USSD,My Number
+17-Jun-21,1499.03,Call Recharge,GTWORLD,My Number
+18-Jun-21,100.0,Call Recharge,USSD,My Number
+18-Jun-21,1500.0,Weekly Sub,USSD,My Number
+21-Jun-21,100.0,Call Recharge,USSD,My Number
+21-Jun-21,1500.0,Weekly Sub,USSD,My Number
+22-Jun-21,100.0,Call Recharge,USSD,My Number
+22-Jun-21,1500.0,Weekly Sub,USSD,My Number
+23-Jun-21,1500.0,Weekly Sub,USSD,My Number
+24-Jun-21,100.0,Call Recharge,USSD,My Number
+25-Jun-21,100.0,Call Recharge,USSD,My Number
+25-Jun-21,100.0,Call Recharge,USSD,My Number
+25-Jun-21,500.0,Call Recharge,USSD,My Number
+25-Jun-21,1500.0,Weekly Sub,USSD,My Number
+25-Jun-21,100.0,Call Recharge,USSD,My Number
+27-Jun-21,500.0,Call Recharge,USSD,My Number
+27-Jun-21,100.0,Call Recharge,USSD,My Number
+27-Jun-21,500.0,Call Recharge,USSD,My Number
+28-Jun-21,100.0,Call Recharge,USSD,My Number
+28-Jun-21,100.0,Call Recharge,USSD,My Number
+28-Jun-21,500.0,Call Recharge,USSD,My Number
+30-Jun-21,100.0,Call Recharge,USSD,My Number
+30-Jun-21,500.0,Call Recharge,USSD,My Number
+01-Jul-21,100.0,Call Recharge,USSD,My Number
+01-Jul-21,500.0,Call Recharge,USSD,My Number
+02-Jul-21,100.0,Call Recharge,USSD,My Number
+03-Jul-21,100.0,Call Recharge,USSD,My Number
+04-Jul-21,100.0,Call Recharge,USSD,My Number
+04-Jul-21,500.0,Call Recharge,USSD,My Number
+04-Jul-21,1499.03,Call Recharge,GTWORLD,Friends
+05-Jul-21,1499.03,Call Recharge,GTWORLD,Friends
+05-Jul-21,3000.0,Monthly Sub,USSD,My Number
+05-Jul-21,1500.0,Weekly Sub,USSD,My Number
+06-Jul-21,100.0,Call Recharge,USSD,My Number
+06-Jul-21,100.0,Call Recharge,USSD,My Number
+06-Jul-21,100.0,Call Recharge,USSD,My Number
+08-Jul-21,500.0,Call Recharge,USSD,My Number
+09-Jul-21,100.0,Call Recharge,USSD,My Number
+09-Jul-21,200.0,Call Recharge,GTWORLD,My Number
+10-Jul-21,100.0,Call Recharge,USSD,My Number
+10-Jul-21,500.0,Call Recharge,USSD,My Number
+12-Jul-21,100.0,Call Recharge,USSD,My Number
+12-Jul-21,500.0,Call Recharge,USSD,My Number
+13-Jul-21,100.0,Call Recharge,USSD,My Number
+13-Jul-21,500.0,Call Recharge,USSD,My Number
+14-Jul-21,500.0,Call Recharge,USSD,My Number
+14-Jul-21,100.0,Call Recharge,USSD,My Number
+15-Jul-21,100.0,Call Recharge,USSD,My Number
+15-Jul-21,500.0,Call Recharge,USSD,My Number
+16-Jul-21,100.0,Call Recharge,USSD,My Number
+16-Jul-21,500.0,Call Recharge,USSD,My Number
+16-Jul-21,1500.0,Weekly Sub,GTWORLD,Friends
+17-Jul-21,100.0,Call Recharge,USSD,My Number
+17-Jul-21,500.0,Call Recharge,USSD,My Number
+18-Jul-21,500.0,Call Recharge,USSD,My Number
+19-Jul-21,100.0,Call Recharge,USSD,My Number
+19-Jul-21,500.0,Call Recharge,USSD,My Number
+20-Jul-21,500.0,Call Recharge,USSD,My Number
+20-Jul-21,100.0,Call Recharge,USSD,My Number
+21-Jul-21,100.0,Call Recharge,USSD,My Number
+22-Jul-21,1500.0,Weekly Sub,USSD,My Number
+29-Jul-21,500.0,Call Recharge,USSD,My Number
+29-Jul-21,100.0,Call Recharge,USSD,My Number
